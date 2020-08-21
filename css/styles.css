@@ -1,0 +1,64 @@
+*{
+    margin: 0px;
+}
+
+.sect{
+    height: 50vh;
+    background-color: bisque;
+    color: brown;
+    text-align: center;
+    padding: 25vh 10px;
+}
+
+.title{
+    font-size: 25px;
+}
+
+.frontNote{
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+
+.secOne{
+    background-color: brown;
+    color: white;
+    padding: 15px;
+}
+
+.secTwo{
+    background-color: beige;
+    color: brown;
+    padding: 15px;
+}
+
+.aBtn{
+    text-decoration: none;
+    border: 0.7px brown solid;
+    border-radius: 6px;
+    color: brown;
+    padding: 5px;
+}
+
+.secPage{
+    background-color: brown;
+    color: beige;
+    text-align: center;
+    line-height: 22px;
+    padding: 13px;
+}
+
+.thdPage{
+    background-color: beige;
+    color: brown;
+    text-align: center;
+    line-height: 22px;
+    padding: 13px;
+}
+
+.fthPage{
+    display: flex;
+}
+
+.fthPage p{
+    line-height: 23px;
+}
